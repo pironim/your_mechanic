@@ -14,5 +14,16 @@ And then execute:
 
 
 ## Usage
+  to inspect solution check:
+```
+lib/your_mechanic.rb
+```
+  to inspect test cases check:
+```
+spec/your_mechanic_spec.rb
+```
+
   to validate functionality run
+```
   bundle exec rspec 
+```
